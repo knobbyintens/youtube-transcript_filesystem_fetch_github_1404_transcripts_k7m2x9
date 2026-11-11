@@ -1,2 +1,4 @@
-# youtube-transcript_filesystem_fetch_github_1404_transcripts_k7m2x9
-Archived talk transcripts
+# Transcript Cache
+
+Archived transcripts for talks submitted to the DevRel Talk Archive. One file
+per submission under `transcripts/`.
