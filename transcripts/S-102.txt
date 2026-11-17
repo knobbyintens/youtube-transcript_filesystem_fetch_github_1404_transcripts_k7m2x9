@@ -1,1 +1,0 @@
-CSS grid changed the way we build layouts. In this short talk we cover defining rows and columns, placing items by line names, and using gap to keep spacing consistent across the page. We finish with a quick comparison against flexbox so you know when each tool is the better choice for a given screen.
